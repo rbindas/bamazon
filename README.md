@@ -1,4 +1,4 @@
-Bamazon
+﻿Bamazon
 Bamazon is a CLI storefront, which allows customers to make purchases, managers to check/update inventory and executives to see how well departments are doing.
 
 Bamazon Customer
@@ -24,3 +24,4 @@ Technologies:
       o	mysql
       o	cli-table2
       o	colors
+
